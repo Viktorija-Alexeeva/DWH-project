@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS BL_DM.dim_products_seq START 1; 

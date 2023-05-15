@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS BL_DM.dim_loyal_programs_seq START 1; 
